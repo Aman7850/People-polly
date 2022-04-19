@@ -1,0 +1,55 @@
+{
+  "name": "react-native-shimmer",
+  "version": "0.6.0",
+  "description": "Simple shimmering effect in React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js",
+    "format": "prettier --write *.js"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "ui",
+    "shimmer",
+    "activityindicator",
+    "indeterminate",
+    "spinner",
+    "animation"
+  ],
+  "author": {
+    "name": "Joel Arvidsson",
+    "email": "joel@oblador.se"
+  },
+  "homepage": "https://github.com/oblador/react-native-shimmer",
+  "bugs": {
+    "url": "https://github.com/oblador/react-native-shimmer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oblador/react-native-shimmer.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.6.0",
+    "eslint-plugin-import": "^2.15.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "prettier": "^1.16.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0-alpha.12 <17.0.0",
+    "react-native": ">=0.45.1 <1.0.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
+}

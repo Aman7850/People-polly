@@ -1,0 +1,14 @@
+com/thinky/MainApplication.java
+ com.thinky.MainApplication
+ com.thinky.MainApplication$1
+com/thinky/ReactNativeFlipper.java
+ com.thinky.ReactNativeFlipper
+ com.thinky.ReactNativeFlipper$1
+ com.thinky.ReactNativeFlipper$2
+ com.thinky.ReactNativeFlipper$2$1
+com/thinky/BuildConfig.java
+ com.thinky.BuildConfig
+com/thinky/MainActivity.java
+ com.thinky.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
